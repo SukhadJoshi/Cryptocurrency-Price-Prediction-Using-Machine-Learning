@@ -1,0 +1,3 @@
+- Implemented the Facebook Prophet model to drive a project focused on predicting upcoming cryptocurrency values.
+- Gathered cryptocurrency price data and associated information from Yahoo Finance to be utilized as input for the predictive model.
+- Used Facebook Prophet’s capabilities to capture patterns, trends, and seasonality in the price data, allowing for accurate predictions of future price movements.
